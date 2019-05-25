@@ -2,13 +2,17 @@
 # Food-101 With ResNet50
 
 
-## Introduction
+## Objective
 Our objective is to classify 101,000 food images in 101 categories.
 
 This is very so ImageNet like where we had 1.2 million images to classify into 1000 categories. There we saw explosion of different architectures starting from AlexNet, ZFNet, VGG, GoogLeNet, Inception v3, ResNet, SqueezeNet, and many other Nets to tackle this problem better than humans.
 
 Now it's time to stand on shoulder of these Nets and use it to solve our classification problem into 101 food categories.
 
+### Training
+
+* On [Google Colab](https://colab.research.google.com) 
+* GPU: 1xTesla K80 , compute 3.7, having 2496 CUDA cores , 12GB GDDR5 VRAM
 
 ### 1.Importing packages
 
