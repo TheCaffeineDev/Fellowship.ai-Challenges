@@ -1,6 +1,15 @@
 
 # Food-101 With ResNet50
 
+
+## Introduction
+Our objective is to classify 101,000 food images in 101 categories.
+
+This is very so ImageNet like where we had 1.2 million images to classify into 1000 categories. There we saw explosion of different architectures starting from AlexNet, ZFNet, VGG, GoogLeNet, Inception v3, ResNet, SqueezeNet, and many other Nets to tackle this problem better than humans.
+
+Now it's time to stand on shoulder of these Nets and use it to solve our classification problem into 101 food categories.
+
+
 ### 1.Importing packages
 
 
@@ -109,8 +118,6 @@ plt.subplots_adjust(left=0, wspace=0, hspace=0)
 plt.show()
 ```
 
-
-![png](Dhuruva_Priyan_Fellowship_files/Dhuruva_Priyan_Fellowship_12_0.png)
 
 
 ### 3.Training with ResNet50
