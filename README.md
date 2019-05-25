@@ -1,6 +1,6 @@
 # Fellowship.ai Challenges
 
-## Food-101
+[Fellowship.ai](https://fellowship.ai/challenge)
 
 ## Food-101
 
