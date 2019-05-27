@@ -21,3 +21,14 @@ https://colab.research.google.com/drive/1tgJnxdefACoq7-XYU5IUBO9aBSKgs1ua)***
 * [Omniglot](https://github.com/brendenlake/omniglot) the “transpose” of MNIST, with 1623 character classes, each with 20 examples. 
 
 * Use background set of 30 alphabets for training and evaluate on set of 20 alphabets. Refer to this script for sampling setup.
+
+## ULMFiT Sentiment
+
+***[Solution](https://github.com/TheCaffeineDev/Fellowship.ai-Challenges/blob/master/One%20Shot%20Learning/One_Shot_Learning_Omniglot.ipynb)***
+
+***[Google Colab Notebook](
+https://colab.research.google.com/drive/1IilJf4dl6S1JS5kxGUaaheIpIJ8OS9fL)***
+
+* * Apply a supervised or semi-supervised [ULMFiT](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) model to [Twitter US Airlines Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment#Tweets.csv)
+
+* Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). It contains whether the sentiment of the tweets in this set was positive, neutral, or negative for six US airlines
