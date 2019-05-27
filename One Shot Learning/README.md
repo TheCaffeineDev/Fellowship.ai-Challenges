@@ -33,4 +33,10 @@ The model was compiled using the adam optimizer and binary cross entropy loss fu
 
 The model was trained for 20000 iterations with batch size of 32.
 
-After every 200 iterations, model validation was done using 20-way one shot learning and the accuracy was calculated over 250 trials. 
+After every 200 iterations, model validation was done using 20-way one shot learning and the accuracy was calculated over 250 trials.
+
+#### 4. Conclusion
+
+This is just a first cut solution and many of the hyper parameters can be tuned in order to avoid over fitting. Also more rigorous testing can be done by increasing the value of ’N’ in N-way testing and by increasing the number of trials.
+
+* Note: The model was trained on Google Colab.
