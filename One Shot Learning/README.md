@@ -23,7 +23,8 @@ Thus we have 1623 different classes(each character can be treated as a separate 
 
 * You can download the dataset by cloning this [GitHub](https://github.com/brendenlake/omniglot) repository. The folder named “Python” contains two zip files: images_background.zip and images_evaluation.zip. Just unzip these two files.
 
-images_background folder contains characters from 30 alphabets and will be used to train the model, while images_evaluation folder contains characters from the other 20 alphabets which we will use to test our system.
+* images_background folder contains characters from 30 alphabets and will be used to train the model, 
+* while images_evaluation folder contains characters from the other 20 alphabets which we will use to test our system.
 
 #### 3. Model Architecture and Training
 
