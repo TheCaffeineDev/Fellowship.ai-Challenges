@@ -24,7 +24,7 @@ https://colab.research.google.com/drive/1tgJnxdefACoq7-XYU5IUBO9aBSKgs1ua)***
 
 ## ULMFiT Sentiment
 
-***[Solution](https://github.com/TheCaffeineDev/Fellowship.ai-Challenges/blob/master/One%20Shot%20Learning/One_Shot_Learning_Omniglot.ipynb)***
+***[Solution](https://github.com/TheCaffeineDev/Fellowship.ai-Challenges/blob/master/ULMFiT%20Sentiment/ULMFiT_Sentiment_(Fast_ai).ipynb)***
 
 ***[Google Colab Notebook](
 https://colab.research.google.com/drive/1IilJf4dl6S1JS5kxGUaaheIpIJ8OS9fL)***
